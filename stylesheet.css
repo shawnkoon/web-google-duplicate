@@ -1,0 +1,106 @@
+#footer {
+    background-color: #F2F2F2;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-size: 11px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#table1 {
+    float: left;
+    padding-left: 15px;
+}
+
+#table2 {
+    float: right;
+    padding-right: 15px;
+}
+
+#table1 a {
+    text-decoration: none;
+    padding-right: 6px;
+    color: #7b7b7b;
+}
+
+#table1 a:hover {
+    text-decoration: underline;
+}
+
+#table2 a {
+    text-decoration: none;
+    padding-left: 6px;
+    color: #7b7b7b;
+}
+
+#table2 a:hover {
+    text-decoration: underline;
+}
+
+#mainBody {
+    clear: right;
+    text-align: center;
+}
+
+#header {
+    float: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 11px;
+}
+
+#header a {
+    text-decoration: none;
+    color: #7b7b7b;
+}
+
+#header td {
+    padding: 4px 4px 4px 4px;
+}
+
+#header td:nth-child(4) a {
+    color: #FFFFFF;
+    background-color: #4684ED;
+    padding: 5px 9px 5px 9px;
+}
+
+#header td:nth-child(1) a:hover {
+    text-decoration: underline;
+}
+
+#header td:nth-child(2) a:hover {
+    text-decoration: underline;
+}
+
+img {
+    padding-top: 109px;
+    height: 75px;
+}
+
+#inputBox {
+    width: 370px;
+    height: 27px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+}
+
+#inputBox:hover {
+    border: 1.3px solid #b3b3b3;
+}
+
+.button {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 11px;
+    background-color: #FAFAFA;
+    height: 27px;
+    margin-right: 2px;
+    margin-left: 2px;
+    color: #7b7b7b;
+}
+
+.button:hover {
+    color: #404040;
+    border: 1px solid #7b7b7b;
+}
